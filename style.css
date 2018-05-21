@@ -16,7 +16,23 @@
 	font-size:15px;
 }
 
+/** job details layout 1 **/
+.vacancy-layout-1 {
+}
+/** job details layout 1 **/
+	
+/** job details layout 2 **/
+.vacancy-layout-2 {
+}
+/** job details layout 2 **/
+	
+
+/** job board layout 2 **/
+	
 #eclipse_job_board .vacancy-layout-2 .vacancy-description {
     margin: 0 !important;
     width: 100% !important;
 }
+
+/** job board layout 2 **/
+	
